@@ -52,6 +52,17 @@ For a detailed overview of the project design, database structure, and requireme
   User selects an answer and clicks Next
   Final score displayed at the end
 
+# 🖼️ Screenshots
+
+### 1. Front Authentication (User Name Input)
+![Front Authentication](screenshots/front_auth.png)
+
+### 2. Quiz Window
+![Quiz Window](screenshots/quiz_window.png)
+
+### 3. Final Score Result Window
+![Final Score Window](screenshots/final_score.png)
+
 # Future Enhancements
 
   Login system for users

@@ -16,7 +16,7 @@ class Database {
 
             String url = "jdbc:mysql://localhost:3306/quiz_system";
             String username = "root";
-            String password = "sonu1911";
+            String password = "Sp26619@";
 
             Connection connection = DriverManager.getConnection(url, username, password);
             System.out.println("Connection Established successfully!");
