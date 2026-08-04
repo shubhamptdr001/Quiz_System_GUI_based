@@ -10,6 +10,8 @@ This application replaces traditional console-based quizzes with a Graphical Use
 built using Java Swing. Quiz questions are stored in a database, making the system dynamic, 
 scalable, and easy to update without changing the source code.
 
+For a detailed overview of the project design, database structure, and requirements, please refer to the [Java project Synopsis.pdf](Java%20project%20Synopsis.pdf).
+
 # ✨Features
 
   Interactive GUI using Java Swing
