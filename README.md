@@ -1,7 +1,7 @@
 # Quiz Management System (Java Swing + Database)
 
 A GUI-based Quiz Management System developed using Java Swing and Database integration. 
-This project allows users to attempt quizzes through an interactive interface, fetches 
+This project allows users to attempt quizes through an interactive interface, fetches 
 questions from a database, and automatically evaluates scores.
 
 # 🪄Project Overview
